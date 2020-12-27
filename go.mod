@@ -1,4 +1,4 @@
-module github.com/using-go-modules-hello
+module github.com/john-black-3k/using-go-modules-hello
 
 go 1.15
 
